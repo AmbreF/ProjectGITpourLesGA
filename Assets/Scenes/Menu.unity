@@ -507,11 +507,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8516720663834985910, guid: 3df63896779362c47a5fdb67acd7422a, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 0.0000047684
+      value: 0.0000076293945
       objectReference: {fileID: 0}
     - target: {fileID: 8516720663834985910, guid: 3df63896779362c47a5fdb67acd7422a, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -0.0000019073
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3df63896779362c47a5fdb67acd7422a, type: 3}
@@ -882,6 +882,34 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3982767676420414051, guid: 3df63896779362c47a5fdb67acd7422a, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3982767676420414051, guid: 3df63896779362c47a5fdb67acd7422a, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3982767676420414051, guid: 3df63896779362c47a5fdb67acd7422a, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 8300000, guid: fdae28cac21e3e6478e7716a016dc6e3, type: 3}
+    - target: {fileID: 3982767676420414051, guid: 3df63896779362c47a5fdb67acd7422a, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3982767676420414051, guid: 3df63896779362c47a5fdb67acd7422a, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: set_name
+      objectReference: {fileID: 0}
+    - target: {fileID: 3982767676420414051, guid: 3df63896779362c47a5fdb67acd7422a, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 3982767676420414051, guid: 3df63896779362c47a5fdb67acd7422a, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 4914430327704763040, guid: 3df63896779362c47a5fdb67acd7422a, type: 3}
       propertyPath: m_Name
       value: ButtonPlay
@@ -900,11 +928,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8516720663834985910, guid: 3df63896779362c47a5fdb67acd7422a, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 0.0000095367
+      value: 0.0000076293945
       objectReference: {fileID: 0}
     - target: {fileID: 8516720663834985910, guid: 3df63896779362c47a5fdb67acd7422a, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -0.00000095367
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3df63896779362c47a5fdb67acd7422a, type: 3}
